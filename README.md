@@ -1,4 +1,4 @@
-# Python Tutorial
+# Python Tutorial - Basics
 
 Welcome to the chaos! This repo is where I document my journey learning Python from mistakes, breakthroughs, and all the “da fk is this?” moments.
 
